@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axio_api_project_crypto/static/css/main.0b3b5f61.css",
+    "main.js": "/axio_api_project_crypto/static/js/main.5588986e.js",
+    "index.html": "/axio_api_project_crypto/index.html",
+    "main.0b3b5f61.css.map": "/axio_api_project_crypto/static/css/main.0b3b5f61.css.map",
+    "main.5588986e.js.map": "/axio_api_project_crypto/static/js/main.5588986e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3b5f61.css",
+    "static/js/main.5588986e.js"
+  ]
+}
