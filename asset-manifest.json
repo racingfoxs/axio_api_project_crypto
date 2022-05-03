@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/axio_api_project_crypto/static/css/main.308c8c15.css",
-    "main.js": "/axio_api_project_crypto/static/js/main.d51129b3.js",
+    "main.js": "/axio_api_project_crypto/static/js/main.687e3272.js",
     "index.html": "/axio_api_project_crypto/index.html",
     "main.308c8c15.css.map": "/axio_api_project_crypto/static/css/main.308c8c15.css.map",
-    "main.d51129b3.js.map": "/axio_api_project_crypto/static/js/main.d51129b3.js.map"
+    "main.687e3272.js.map": "/axio_api_project_crypto/static/js/main.687e3272.js.map"
   },
   "entrypoints": [
     "static/css/main.308c8c15.css",
-    "static/js/main.d51129b3.js"
+    "static/js/main.687e3272.js"
   ]
 }
