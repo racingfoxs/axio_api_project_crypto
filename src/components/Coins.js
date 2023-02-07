@@ -3,6 +3,8 @@ import CoinItem from "./CoinItem";
 import "./coins.css";
 import { Link } from "react-router-dom";
 import Coin from "../pages/Coin";
+import Page from 'react-page-loading';
+
 
 const Coins = (props) => {
 
@@ -25,7 +27,9 @@ const Coins = (props) => {
               element={<Coin />}
               key={coins.id}
             >
+              <Page loader={"spin"} color={"#A9A9A9"} size={10}>
               <CoinItem coins={coins} />
+              </Page>
             </Link>
           );
         })}
